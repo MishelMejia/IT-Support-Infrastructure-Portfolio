@@ -23,14 +23,15 @@ Key highlights:
 - Identity lifecycle management simulation
 
 🔗 Project repository:  
-https://github.com/yourusername/ActiveDirectory-Enterprise-IAM-Lab
+coming soon...
 
 ---
 
 ### Active Directory Administration Lab
-**Technologies:** Active Directory, Windows Server 2022, Group Policy, RSAT  
 
-This lab focuses on Active Directory administration and security. It demonstrates how delegated administration and least-privilege access models are implemented in enterprise environments.
+**Technologies:** Active Directory, Windows Server 2022, Group Policy, RSAT
+
+This lab focuses on enterprise-level Active Directory administration and security using the graphical interface. It demonstrates how delegated administration, organizational structure design, and least‑privilege access models are implemented and managed in real-world environments.
 
 Key highlights:
 - Domain controller and domain-joined workstation setup
@@ -40,8 +41,7 @@ Key highlights:
 - Administrative access testing using RSAT
 
 🔗 Project repository:  
-https://github.com/yourusername/ActiveDirectory-Security-Delegation-Lab
-
+https://github.com/MishelMejia/ActiveDirectory-Administration-Lab
 ---
 
 ## Tools and Technologies
