@@ -23,7 +23,7 @@ Key highlights:
 - Identity lifecycle management simulation
 
 🔗 Project repository:  
-coming soon...
+https://github.com/MishelMejia/Identity-Access-Management-PowershellAutomation-NorthBridge
 
 ---
 
