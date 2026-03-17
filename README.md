@@ -27,7 +27,7 @@ https://github.com/MishelMejia/Identity-Access-Management-PowershellAutomation-N
 
 ---
 
-### Active Directory Administration Lab
+### Active Directory User and Group Administration GUI
 
 **Technologies:** Active Directory, Windows Server 2022, Group Policy, RSAT
 
